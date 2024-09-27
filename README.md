@@ -5,6 +5,7 @@
 
 ### Data Source
 Pizza Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" file, contaning detailed records of customer transactions.
+[Here](https://docs.google.com/spreadsheets/d/1S6_o65KXbAFXZasn_yNOhytmeu4ITcFW/edit?usp=drive_link&ouid=100900241535734520298&rtpof=true&sd=true)
 
 ### Tools
 - Excel - Data Cleaning, Excel Formulas (IF etc.), Pivot Tables/Charts, Data Visualization, Dashboard Building, Timeline.  [Download here](https://microsoft.com)
